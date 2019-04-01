@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d4ea8c1-ba77-4378-a845-94af64e5ac1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/keras.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/keras_testing.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="0d4ea8c1-ba77-4378-a845-94af64e5ac1e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
+            <state relative-caret-position="1275">
               <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+              <folding>
+                <element signature="e#32#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,8 +191,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
+        <state relative-caret-position="1275">
           <caret line="85" column="29" lean-forward="true" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+          <folding>
+            <element signature="e#32#71#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
