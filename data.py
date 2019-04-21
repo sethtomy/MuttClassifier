@@ -13,11 +13,11 @@ if __name__ =='__main__':
 	breeds = []
 
 	for item in os.listdir(annotations_root_dir):
-		breed = item.split('-')[1].lower()
+		breed = item.split('-',1)[1]
 		for file in os.listdir(os.path.join(annotations_root_dir, item)):
 			ids.append(file)
 			breeds.append(breed)	
 
 	df = pd.DataFrame({'id':ids, 'breed':breeds})
 	df = df.sample(frac=1).reset_index(drop=True)
-	df.to_csv('labels.csv')
+	df.to_csv('Data/labels.csv')
